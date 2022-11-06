@@ -1,0 +1,68 @@
+const data = [
+    {
+      id: 1,
+      title: "Fancy Product",
+      price: 40.0,
+      type: "",
+      specialType: false,
+      addedToCart: false,
+    },
+    {
+      id: 2,
+      title: "Fancy Product",
+      price: 18.0,
+      type: "special item",
+      specialType: true,
+      addedToCart: false,
+    },
+    {
+      id: 3,
+      title: "Fancy Product",
+      price: 25.0,
+      type: "",
+      specialType: false,
+      addedToCart: false,
+    },
+    {
+      id: 4,
+      title: "Fancy Product",
+      price: 40.0,
+      type: "popular item",
+      specialType: true,
+      addedToCart: false,
+    },
+    {
+      id: 5,
+      title: "Fancy Product",
+      price: 40.0,
+      type: "",
+      specialType: false,
+      addedToCart: false,
+    },
+    {
+      id: 6,
+      title: "Fancy Product",
+      price: 120.0,
+      type: "",
+      specialType: false,
+      addedToCart: false,
+    },
+    {
+      id: 7,
+      title: "Fancy Product",
+      price: 18.0,
+      type: "special item",
+      specialType: true,
+      addedToCart: false,
+    },
+    {
+      id: 8,
+      title: "Fancy Product",
+      price: 40.0,
+      type: "popular item",
+      specialType: true,
+      addedToCart: false,
+    },
+  ];
+  
+  export default data;
